@@ -1,0 +1,3 @@
+export APP_LISTERNING_PORT=9090
+export USER_NAME=email_user
+export SMS_USER_NAME=sms_user
